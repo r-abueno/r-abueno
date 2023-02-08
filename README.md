@@ -1,3 +1,3 @@
 - 👋 Hi, I’m Richard
-- 🌱 I’m currently learning web development
+- 🌱 I'm a FullStack Developer
 - 📫 https://www.linkedin.com/in/richard-augusto-bueno-491563146/
